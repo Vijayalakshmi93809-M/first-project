@@ -1,2 +1,2 @@
 # first-project
-this will be simple project
+Program two add two numbers
